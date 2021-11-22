@@ -1,0 +1,13 @@
+.myDiv {
+  border: 5px outset #ff000042;
+  background-color: #e6cead2b;
+  text-align: center;
+}
+body{
+  background-color: #45bfcf;
+}
+input{
+  border: 3px double #c3c3dd;
+  text-align:end;
+  color: brown;
+}
